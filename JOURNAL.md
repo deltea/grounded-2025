@@ -19,7 +19,7 @@ Created On: "8/11/2025"
 
 my very own personalized pcb business card that links to my website when tapped!
 
-![Project Cover](http://groundplane.hackclub.com/default_cover.png)
+![Project Cover](/images/Screenshot%202025-08-11%20at%206.09.20 PM.png)
 
 ## Table of Contents
 
