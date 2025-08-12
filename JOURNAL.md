@@ -31,3 +31,5 @@ finally finished the card!!! i added my name to the front of the card, and added
 
 ![finished front side](/Screenshot%202025-08-11%20at%206.11.06 PM.png)
 ![finished back side](/Screenshot%202025-08-11%20at%206.09.20 PM.png)
+
+**time spent: 5 hours**
