@@ -1,8 +1,10 @@
-![banner](/Screenshot%202025-08-11%20at%206.11.06 PM.png)
-
 # pcb business card
 
 this my very own personalized pcb business card that links to my website when tapped!
+
+## front side
+
+![front side](/Screenshot%202025-08-11%20at%206.11.06 PM.png)
 
 ## back side
 

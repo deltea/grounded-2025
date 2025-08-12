@@ -5,10 +5,6 @@ Description: "this my very own personalized pcb business card that links to my w
 Created On: "8/11/2025"
 ---
 
-# 💳 pcb business card
-
-this my very own personalized pcb business card that links to my website when tapped!
-
 ## sunday 8/10
 
 created a new project and started to work on the basic design for the pcb! i quickly finished making the schematic, and i'm wondering which color i should use for the board... black looks super sleek, but i kinda hate how there isn't a gray color. the blue one has a darker shade of blue, which is nice, but it looks a bit more generic. i think i'm probably gonna go with black, since it fits my website.
